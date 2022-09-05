@@ -1,14 +1,14 @@
 class script(object):
     START_TXT = """<b> Hello {} 👋🏻 Im Rolex Bot I can share Movies and Series 😁.</b>
     
-<iAdd me to your Group and make me as Admin to share files in your Group</i>"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
+<i>Add me to your Group and make me as Admin to share files in your Group</i>"""
+    HELP_TXT = """Hey {}
 Here Is The Help For MY Commands."""
     ABOUT_TXT = """<b><i>🧸 Bot Name : <a href=https://t.me/RolexMoviesOX><b>Rolex Bot</b></a>\n
 😎 Owner : <a href=https://t.me/JonSnow11><b>Jon Snow</b></a>\n
 📡 Host : ʜᴇʀᴏᴋᴜ\n
 🌟 Version : ᴠ 4.0 [ ʙᴇᴛᴀ ]\n</b></i>"""
-   SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
+    SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » First Share Me Your Heroku Api
 » I will Create One Bot For You<b>
 » Contact Me @JonSnow11<b>"""
